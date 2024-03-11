@@ -1,6 +1,6 @@
-# Mediasoup Streaming App
+# WebRTC Streaming SFU (with mediasoup)
 
-Node v18+
+![screencapture-192-168-3-8-5173-2024-03-11-05_42_06](https://github.com/inagamov/webrtc-streaming-sfu/assets/69040554/49f9e372-dedf-4c69-bd9f-3500eb30dd01)
 
 ## SSL
 
