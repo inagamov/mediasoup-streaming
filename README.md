@@ -2,6 +2,8 @@
 
 ![screencapture-192-168-3-8-5173-2024-03-11-05_42_06](https://github.com/inagamov/webrtc-streaming-sfu/assets/69040554/49f9e372-dedf-4c69-bd9f-3500eb30dd01)
 
+<br/>
+
 ## SSL
 
 1. Go to `./ssl` folder
@@ -19,6 +21,8 @@ openssl req -x509 -newkey rsa:4096 -nodes -keyout key.pem -out cert.pem -days 36
 ln cert.pem ../media-server/ssl
 ln key.pem ../media-server/ssl
 ```
+
+<br/>
 
 ## Frontend
 
@@ -42,6 +46,8 @@ cp .env.example .env
 npm run dev -- --host
 ```
 
+<br/>
+
 ## Media Server
 
 1. Go to `./media-server` folder
@@ -60,4 +66,15 @@ cp .env.example .env
 make build
 make up
 ```
+
+<br/>
+
+## Links
+- [Nomadic Soft](https://nomadicsoft.io)
+- [Artyom Inagamov - LinkedIn](https://www.linkedin.com/in/inagamov)
+- [Artyom Inagamov - X](https://twitter.com/inagamov_tho)
+- [Artyom Inagamov - Ko-Fi](https://ko-fi.com/inagamov)
+
+
+
 
