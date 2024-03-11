@@ -34,7 +34,7 @@
 
       <!-- article link -->
       <a
-        href="https://github.com/inagamov/mediasoup-streaming"
+        href="https://github.com/inagamov/webrtc-streaming-sfu"
         target="_blank"
         class="backdrop-blur-2xl bg-neutral-200 dark:bg-neutral-900 rounded-lg p-4 flex items-center justify-between active:outline outline-2 outline-blue-600"
       >
