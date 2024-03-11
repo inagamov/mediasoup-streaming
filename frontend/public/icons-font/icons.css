@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.woff?fe6b1a0b9794a750ce18acc3b146e6b4") format("woff"),
+url("./icons.woff2?fe6b1a0b9794a750ce18acc3b146e6b4") format("woff2");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add:before {
+    content: "\f101";
+}
+.icon-close:before {
+    content: "\f102";
+}
+.icon-eye:before {
+    content: "\f103";
+}
+.icon-github:before {
+    content: "\f104";
+}
+.icon-heart:before {
+    content: "\f105";
+}
+.icon-kofi:before {
+    content: "\f106";
+}
+.icon-link:before {
+    content: "\f107";
+}
+.icon-linkedin:before {
+    content: "\f108";
+}
+.icon-logo:before {
+    content: "\f109";
+}
+.icon-mic:before {
+    content: "\f10a";
+}
+.icon-nomadic_soft:before {
+    content: "\f10b";
+}
+.icon-open_in_new:before {
+    content: "\f10c";
+}
+.icon-refresh:before {
+    content: "\f10d";
+}
+.icon-send:before {
+    content: "\f10e";
+}
+.icon-stop:before {
+    content: "\f10f";
+}
+.icon-volume:before {
+    content: "\f110";
+}
+.icon-x:before {
+    content: "\f111";
+}

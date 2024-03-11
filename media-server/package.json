@@ -1,0 +1,36 @@
+{
+  "name": "webrtc-streaming-sfu",
+  "version": "1.0.0",
+  "description": "WebRTC SFU browser-based video streaming app",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_PATH=./build node build/index.js",
+    "build": "tsc -p .",
+    "dev": "nodemon src/index.ts"
+  },
+  "author": "Artyom Inagamov",
+  "license": "MIT",
+  "keywords": [
+    "webrtc",
+    "mediasoup",
+    "socket.io",
+    "broadcasting",
+    "sfu",
+    "nodejs",
+    "video",
+    "audio"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "mediasoup": "^3.13.18",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
