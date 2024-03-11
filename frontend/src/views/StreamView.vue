@@ -6,9 +6,9 @@
       class="rounded-[50%] invert-0 dark:invert fixed left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 blur-lg -z-10 h-[100svh]"
     />
 
-    <div class="flex items-center justify-center h-[100svh] w-[100svw]">
+    <div class="flex items-center justify-center h-[100svh] w-full">
       <div
-        class="flex flex-col justify-center w-full h-[svh]"
+        class="flex flex-col justify-center h-[100svh]"
         style="max-width: calc((100svh) * 9 / 16)"
       >
         <div class="aspect-[9/16] w-full h-[100%] flex flex-col gap-4 relative overflow-hidden">
