@@ -70,11 +70,5 @@ make up
 <br/>
 
 ## Links
-- [Nomadic Soft](https://nomadicsoft.io)
 - [Artyom Inagamov - LinkedIn](https://www.linkedin.com/in/inagamov)
 - [Artyom Inagamov - X](https://twitter.com/inagamov_tho)
-- [Artyom Inagamov - Ko-Fi](https://ko-fi.com/inagamov)
-
-
-
-
